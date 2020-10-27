@@ -11,7 +11,6 @@ Follow the below links for generated language specific SDK repositories.
 * [Python](https://github.factset.com/factset/sampleapi-python-sdk)
 * [Dotnet](https://github.factset.com/factset/sampleapi-dotnet-sdk)
 * [Java](https://github.factset.com/factset/sampleapi-java-sdk)
-* [R](https://github.factset.com/factset/sampleapi-r-sdk)
 
 ## Contents
 
