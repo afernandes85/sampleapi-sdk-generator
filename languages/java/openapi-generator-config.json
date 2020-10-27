@@ -4,12 +4,12 @@
     "invokerPackage": "factset.sampleapi",
     "groupId": "com.factset.sampleapi",
     "artifactId": "sampleapi-sdk",
-    "artifactVersion": "1.0.0",
-    "artifactUrl": "https://github.com/factset/sampleapi-java-sdk",
+    "artifactVersion": "0.0.0",
+    "artifactUrl": "https://github.factset.com/factset/sampleapi-java-sdk",
     "artifactDescription": "SDK for FactSet Sample API",
-    "scmConnection": "scm:git:git://github.com/factset/sampleapi-java-sdk.git",
+    "scmConnection": "scm:git:git://github.factset.com/factset/sampleapi-java-sdk.git",
     "scmDeveloperConnection": "scm:git:ssh://github.com:factset/sampleapi-java-sdk.git",
-    "scmUrl": "http://github.com/factset/sampleapi-java-sdk/tree/master",
+    "scmUrl": "http://github.factset.com/factset/sampleapi-java-sdk/tree/master",
     "developerName": "Sample API",
     "developerEmail": "sample@factset.com",
     "developerOrganization": "FactSet Research Systems Inc.",
@@ -24,5 +24,5 @@
     "caseInsensitiveResponseHeaders": true,
     "library": "jersey2",
     "servers":  false,
-    "httpUserAgent": "sample-api/1.0.0/java"
+    "httpUserAgent": "sample-api/0.0.0/java"
 }

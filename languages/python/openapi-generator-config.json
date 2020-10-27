@@ -1,7 +1,7 @@
 {
   "packageName": "fds.sampleapi",
   "projectName": "fds.sampleapi",
-  "packageVersion": "1.0.0",
-  "packageUrl": "https://github.com/factset/sampleapi-python-sdk",
-  "httpUserAgent": "sample-api/1.0.0/python"
+  "packageVersion": "0.0.0",
+  "packageUrl": "https://github.factset.com/factset/sampleapi-python-sdk",
+  "httpUserAgent": "sample-api/0.0.0/python"
 }

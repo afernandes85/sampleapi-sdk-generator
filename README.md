@@ -8,10 +8,10 @@ This repository contains all the configurations and customizations required to g
 
 Follow the below links for generated language specific SDK repositories.
 
-* [Python](https://github.com/factset/sampleapi-python-sdk)
-* [Dotnet](https://github.com/factset/sampleapi-dotnet-sdk)
-* [Java](https://github.com/factset/sampleapi-java-sdk)
-* [R](https://github.com/factset/sampleapi-r-sdk)
+* [Python](https://github.factset.com/factset/sampleapi-python-sdk)
+* [Dotnet](https://github.factset.com/factset/sampleapi-dotnet-sdk)
+* [Java](https://github.factset.com/factset/sampleapi-java-sdk)
+* [R](https://github.factset.com/factset/sampleapi-r-sdk)
 
 ## Contents
 
