@@ -1,6 +1,6 @@
 {
   "packageName": "FactSet.SampleAPI",
-  "packageVersion": "0.0.0",
+  "packageVersion": "1.0.0",
   "packageGuid": "{D7309227-518B-45ED-896A-4853BE6A9075}",
   "targetFramework": "netstandard2.0",
   "caseInsensitiveResponseHeaders": true,
@@ -16,5 +16,5 @@
   "licenseId": "Apache-2.0",
   "releaseNote": "Refer to Changelog on GitHub source repository",
   "packageTags": "FactSet;FDS;API;SampleAPI",
-  "httpUserAgent": "sample-api/0.0.0/csharp"
+  "httpUserAgent": "sample-api/1.0.0/csharp"
 }
